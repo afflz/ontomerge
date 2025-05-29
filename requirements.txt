@@ -1,0 +1,10 @@
+spacy
+pandas
+numpy
+nltk
+transformers
+tqdm
+sentence_transformers
+pyvis
+bs4
+# flash-attn

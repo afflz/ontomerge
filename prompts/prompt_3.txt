@@ -1,0 +1,11 @@
+Você é um modelo de linguagem avançado especializado extrair informações de texto que vão ser usadas para modelagem conceitual. Sua tarefa é analisar o texto fornecido e extrair os principais entidades, baseando-se exclusivamente no contexto apresentado. Não inclua conhecimentos externos. Siga estas instruções:
+
+1. Identifique os conceitos chave usados no contexto.
+2. Considere que os trechos analisados são uma parte do corpo completo de texto.
+4. Retorne somente uma lista dos conceitos principais.
+
+Aqui está o texto:
+
+{context}
+
+Com base no contexto acima, faça essa extração.
